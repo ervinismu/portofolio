@@ -1,0 +1,692 @@
+{
+  "document": {
+    "id": "doc",
+    "name": "New Document",
+    "version": 15.5,
+    "pages": {
+      "page": {
+        "id": "page",
+        "name": "Page 1",
+        "childIndex": 1,
+        "shapes": {
+          "817db834-01d9-425e-2b5a-631eb3d9ab66": {
+            "id": "817db834-01d9-425e-2b5a-631eb3d9ab66",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 1,
+            "point": [
+              472,
+              280
+            ],
+            "rotation": 0,
+            "text": "Articles",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "2cb5d398-6d53-46eb-2b18-e2bae3704776": {
+            "id": "2cb5d398-6d53-46eb-2b18-e2bae3704776",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 2,
+            "point": [
+              560,
+              280
+            ],
+            "rotation": 0,
+            "text": "Contact",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "7f44e756-ed40-4d1d-2e5f-f46f9b6e0fa6": {
+            "id": "7f44e756-ed40-4d1d-2e5f-f46f9b6e0fa6",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 4,
+            "point": [
+              64,
+              280
+            ],
+            "rotation": 0,
+            "text": "@BlogName",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "70cdcfd7-d63a-4e44-16b9-813aa96a2926": {
+            "id": "70cdcfd7-d63a-4e44-16b9-813aa96a2926",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 5,
+            "point": [
+              64,
+              352
+            ],
+            "size": [
+              576,
+              248
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "0481cc15-6056-4715-055c-9bd1b5a56f4c": {
+            "id": "0481cc15-6056-4715-055c-9bd1b5a56f4c",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 6,
+            "point": [
+              96,
+              416
+            ],
+            "rotation": 0,
+            "text": "Hello welcome",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "682ae3ef-706a-4d1f-0813-04d0524b38d0": {
+            "id": "682ae3ef-706a-4d1f-0813-04d0524b38d0",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 7,
+            "point": [
+              320,
+              384
+            ],
+            "size": [
+              288,
+              192
+            ],
+            "rotation": 6.27423535877729,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "Profile Picture",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "1fd2288f-7f1a-4f6f-2a25-3869277f1210": {
+            "id": "1fd2288f-7f1a-4f6f-2a25-3869277f1210",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 8,
+            "point": [
+              80,
+              472
+            ],
+            "rotation": 0,
+            "text": "Lorem ipsum dolor \nsit amet elit. Esse, non!",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "ad690da5-f421-404c-07d8-34abe1455b39": {
+            "id": "ad690da5-f421-404c-07d8-34abe1455b39",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 9,
+            "point": [
+              672,
+              448
+            ],
+            "rotation": 0,
+            "text": "BANNER / HERO",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "92aee2d0-e7b6-4d06-0a87-24d93b66fa7e": {
+            "id": "92aee2d0-e7b6-4d06-0a87-24d93b66fa7e",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 10,
+            "point": [
+              64,
+              640
+            ],
+            "size": [
+              576,
+              248
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "5a47f1af-bf47-45ce-11d2-f81b793dcb87": {
+            "id": "5a47f1af-bf47-45ce-11d2-f81b793dcb87",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 11,
+            "point": [
+              699.5,
+              704
+            ],
+            "rotation": 0,
+            "text": "ARTICLES",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "d49e452f-90d9-406b-0c71-bbf505f81f11": {
+            "id": "d49e452f-90d9-406b-0c71-bbf505f81f11",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 12,
+            "point": [
+              304,
+              656
+            ],
+            "rotation": 0,
+            "text": "ARTICLES",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3783bd40-e26f-4382-0124-295f9972c281": {
+            "id": "3783bd40-e26f-4382-0124-295f9972c281",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 13,
+            "point": [
+              288,
+              840
+            ],
+            "rotation": 0,
+            "text": "Read More ...",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "6e4cb802-cb67-4f30-005d-2b7fb5de47ae": {
+            "id": "6e4cb802-cb67-4f30-005d-2b7fb5de47ae",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 14,
+            "point": [
+              128,
+              704
+            ],
+            "size": [
+              128,
+              128
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "516dd6b5-5267-4bc4-15e5-92743e269ac2": {
+            "id": "516dd6b5-5267-4bc4-15e5-92743e269ac2",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 15,
+            "point": [
+              288,
+              704
+            ],
+            "size": [
+              128,
+              128
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "24888757-b080-4a5a-0531-193b73670756": {
+            "id": "24888757-b080-4a5a-0531-193b73670756",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 16,
+            "point": [
+              448,
+              704
+            ],
+            "size": [
+              128,
+              128
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "000d2c43-6a9f-40e3-0094-68a6818abc49": {
+            "id": "000d2c43-6a9f-40e3-0094-68a6818abc49",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 17,
+            "point": [
+              64,
+              920
+            ],
+            "size": [
+              576,
+              360
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "e9098786-ad31-40eb-23a5-dd7d63773064": {
+            "id": "e9098786-ad31-40eb-23a5-dd7d63773064",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 18,
+            "point": [
+              88,
+              1016
+            ],
+            "rotation": 0,
+            "text": "Linkedin",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "4258192f-43c1-4f2f-3fb9-526c9cdb2301": {
+            "id": "4258192f-43c1-4f2f-3fb9-526c9cdb2301",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 19,
+            "point": [
+              256,
+              1016
+            ],
+            "rotation": 0,
+            "text": "Github",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "da8a2789-5629-4e94-3d65-2823abb2bcad": {
+            "id": "da8a2789-5629-4e94-3d65-2823abb2bcad",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 20,
+            "point": [
+              88,
+              1080
+            ],
+            "rotation": 0,
+            "text": "Twitter",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "8567a3b1-3969-4fd7-268b-afea35efb5f6": {
+            "id": "8567a3b1-3969-4fd7-268b-afea35efb5f6",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 21,
+            "point": [
+              152,
+              960
+            ],
+            "rotation": 0,
+            "text": "CONTACT",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "cf971579-f0af-486b-2db0-e4fe316c8aaa": {
+            "id": "cf971579-f0af-486b-2db0-e4fe316c8aaa",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 22,
+            "point": [
+              352,
+              960
+            ],
+            "size": [
+              256,
+              288
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "9e19b00b-1f46-45e6-1304-b4687145cc4e": {
+            "id": "9e19b00b-1f46-45e6-1304-b4687145cc4e",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 23,
+            "point": [
+              224,
+              1080
+            ],
+            "rotation": 0,
+            "text": "Instagram",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "6def3630-e0e4-49af-3a0c-3c63595cb570": {
+            "id": "6def3630-e0e4-49af-3a0c-3c63595cb570",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 24,
+            "point": [
+              480,
+              1152
+            ],
+            "size": [
+              96,
+              64
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "9d4a2851-3ce6-4945-23c4-ebefef0b2958": {
+            "id": "9d4a2851-3ce6-4945-23c4-ebefef0b2958",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 25,
+            "point": [
+              496,
+              1168
+            ],
+            "rotation": 0,
+            "text": "submit",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "a58e8cc0-e7dd-41de-1acb-5953500a165c": {
+            "id": "a58e8cc0-e7dd-41de-1acb-5953500a165c",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 26,
+            "point": [
+              384,
+              992
+            ],
+            "size": [
+              192,
+              32
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          },
+          "c2fc929c-bd1f-427f-18aa-f2819696a041": {
+            "id": "c2fc929c-bd1f-427f-18aa-f2819696a041",
+            "type": "text",
+            "name": "Text",
+            "parentId": "page",
+            "childIndex": 27,
+            "point": [
+              704,
+              1016
+            ],
+            "rotation": 0,
+            "text": "CONTACT",
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1,
+              "font": "script",
+              "textAlign": "middle"
+            }
+          },
+          "3f4a7d87-873f-4c66-20b5-303f6d6e62e0": {
+            "id": "3f4a7d87-873f-4c66-20b5-303f6d6e62e0",
+            "type": "rectangle",
+            "name": "Rectangle",
+            "parentId": "page",
+            "childIndex": 28,
+            "point": [
+              384,
+              1056
+            ],
+            "size": [
+              200,
+              64
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "label": "",
+            "labelPoint": [
+              0.5,
+              0.5
+            ]
+          }
+        },
+        "bindings": {}
+      }
+    },
+    "pageStates": {
+      "page": {
+        "id": "page",
+        "selectedIds": [],
+        "camera": {
+          "point": [
+            0,
+            0
+          ],
+          "zoom": 1
+        }
+      }
+    },
+    "assets": {}
+  },
+  "assets": {}
+}

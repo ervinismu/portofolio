@@ -1,48 +1,105 @@
-/* UNIVERSAL FOR ALL ELEMENTS*/
+/*=========== UNIVERSAL FOR ALL ELEMENTS */
 * {
-	font-family: "Poor Story", cursive;
+	/* border: 1px solid red; */
+	margin: 0px;
+	font-family: "Open Sans", sans-serif;
 }
 
-/* Styling Navigation */
-#navbar a {
-	text-decoration: none;
-	color: #000;
-	padding: 10px;
+/*=========== VARIABLES */
+:root {
+	--white: #fff;
+	--purple: #444cf7;
+	--gray: #e5e5f7;
+	--dark: #0b1120;
+	--light: #fff;
+	--font-small: 10px;
 }
 
-#navbar a:hover {
-	background-color: tomato;
-	color: white;
+.link-active {
+	background-color: var(--purple);
+	color: var(--white);
 	border-radius: 5px;
 }
 
-/* Styling BANNER */
+/*=========== Styling HEADER */
+header {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 12px;
+}
+
+/*=========== Styling Navigation */
+#navbar {
+	padding: 20px;
+}
+
+#navbar a {
+	color: #1a202c;
+	font-size: medium;
+	font-weight: 800;
+	text-decoration: none;
+	padding: 10px;
+	transition: 0.4s;
+}
+
+#navbar a:hover {
+	background-color: var(--purple);
+	color: var(--white);
+	border-radius: 5px;
+}
+
+/*=========== Styling BANNER */
 #banner {
-	color: white;
-	padding: 15px;
-	text-align: center;
-	background-color: #e5e5f7;
-	opacity: 0.8;
-	background-image: radial-gradient(circle at center center, #444cf7, #e5e5f7),
-		repeating-radial-gradient(
-			circle at center center,
-			#444cf7,
-			#444cf7,
-			10px,
-			transparent 20px,
-			transparent 10px
-		);
-	background-blend-mode: multiply;
+	height: 80vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: linear-gradient(#ececf6 0.5px, transparent 0.5px),
+		linear-gradient(to right, #ececf6 0.5px, transparent 0.5px);
+	background-size: 25px 25px;
+	background-color: #ffffff;
 }
 
-#banner img {
-	height: 100px;
-	width: 100px;
+#banner #hero {
+	padding: 10px;
+	width: 80%;
+	height: auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 }
 
-/* Styling PROJECT */
-/* Styling ARTICLE */
-/* Styling FOOTER */
-footer {
-	text-align: center;
+#banner #hero img {
+	width: 200px;
+	height: auto;
 }
+
+#banner #hero div {
+	width: 45%;
+	height: 50%;
+	font-size: large;
+	padding: 10px;
+	text-align: justify;
+}
+
+#banner #hero #social-links {
+	display: flex;
+	justify-content: space-between;
+	width: auto;
+	flex-wrap: wrap;
+}
+
+#banner #hero #social-links a {
+	text-decoration: none;
+	padding: 5px;
+	color: #1a202c;
+	font-size: medium;
+	font-weight: 800;
+}
+
+/*=========== Styling PROJECT */
+/*=========== Styling ARTICLE */
+/*=========== Styling FOOTER */
