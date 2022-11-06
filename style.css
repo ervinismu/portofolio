@@ -1,0 +1,75 @@
+* {
+	/* border: 1px solid red; */
+	font-family: "Noto Serif", serif;
+	margin: 0px;
+}
+
+/* VARIABLES */
+:root {
+	--purple: #444cf7;
+	--white: #fff;
+	--black: #000;
+	--gray: #e5e5f7;
+}
+
+.link {
+	text-decoration: none;
+}
+
+/* NAVIGATION */
+#navigation {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+#navigation div a {
+	padding: 10px;
+	border-radius: 5px;
+	transition: 0.4s;
+	color: var(--black);
+}
+
+#navigation div a:hover {
+	background-color: var(--purple);
+	color: var(--white);
+}
+
+/* ============= MAIN ============= */
+/* SECTION - BANNER */
+#banner {
+	background-color: #e5e5f7;
+	opacity: 0.8;
+	background-image: radial-gradient(var(--purple) 1px, var(--gray) 0.5px);
+	background-size: 10px 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+}
+
+#banner #hero {
+	display: flex;
+	align-items: center;
+	width: 60%;
+	height: 50%;
+}
+
+#banner #hero img {
+	width: auto;
+	height: auto;
+	border-radius: 10px;
+}
+
+#banner #hero div {
+	background-color: var(--gray);
+	padding: 30px;
+	margin: 20px;
+	width: auto;
+	height: auto;
+}
+
+/* SECTION - ARTICLES */
+/* SECTION - PROJECTS */
+/* SECTION - CONTACT */
+/* FOOTER */
