@@ -1,9 +1,3 @@
 # portofolio
 
-## Git Command
-
-1. Berpindah Branch
-
-```bash
-    git checkout namabranch
-```
+Repository for free web development courses.
